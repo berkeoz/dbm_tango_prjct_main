@@ -107,6 +107,12 @@
               "schema": "",
               "name": "TEST",
               "type": "TABLE"
+            },
+            {
+              "UniqueIndex": "TANGO_TEST_PK2",
+              "schema": "",
+              "name": "TEST2",
+              "type": "TABLE"
             }
           ]
         }
