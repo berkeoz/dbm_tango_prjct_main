@@ -97,7 +97,20 @@
           ]
         }
       ],
-      "DatabasesStaticDataObjects": null
+      "DatabasesStaticDataObjects": [
+        {
+          "DatabaseId": "ae00f336-220e-4ce2-b1b3-c43862024ccd",
+          "DatabaseAliasName": "DBM_TANGO_DB",
+          "StaticDataObjects": [
+            {
+              "UniqueIndex": "TANGO_TEST_PK1",
+              "schema": "",
+              "name": "TEST",
+              "type": "TABLE"
+            }
+          ]
+        }
+      ]
     }
   ],
   "GlobalConfigurations": null,
